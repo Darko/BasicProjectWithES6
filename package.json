@@ -1,7 +1,7 @@
 {
   "name": "gulp_starter_project_with_es6",
   "version": "1.0.0",
-  "author": "Darko – www.gitbub.com/darko",
+  "author": "Darko – www.github.com/darko",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
@@ -14,6 +14,6 @@
     "gulp-sourcemaps": "^2.4.1",
     "gulp-util": "^3.0.8",
     "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
